@@ -1,0 +1,43 @@
+body {
+	background-color: snow;
+	color: dimgray;
+	padding-inline: 10px;
+}
+
+.center {
+	display:flex; flex-direction:column; justify-content:center;
+  min-height:100vh;
+}
+
+h1, h2 {
+	color: darkslateblue;
+	text-transform: capitalize;
+}
+em {
+	
+	text-transform: uppercase;
+}
+
+.mood {
+	display: grid;
+	grid-template-columns: auto auto auto auto ;
+	color: green;
+	
+}
+.second {
+	padding: 10px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+  border-color:darkred;
+}
+h3 {
+	text-decoration: underline;
+
+}
