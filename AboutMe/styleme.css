@@ -41,3 +41,24 @@ h3 {
 	text-decoration: underline;
 
 }
+
+.firstImage {
+	height: 130px;
+	width: 130px;
+}
+.lastImage	{
+	height: 130px;
+	width: 130px;
+}
+li {
+	font-family: Monaco;	
+	font-weight: lighter;
+	font-style: normal;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
