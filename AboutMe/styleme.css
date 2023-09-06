@@ -43,12 +43,14 @@ h3 {
 }
 
 .firstImage {
-	height: 130px;
-	width: 130px;
+	border:0;
+	width:88px;
+	height:31px
 }
 .lastImage	{
-	height: 130px;
-	width: 130px;
+	border:0;
+	width:88px;
+	height:31px
 }
 li {
 	font-family: Monaco;	
