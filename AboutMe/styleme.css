@@ -64,3 +64,16 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+.none-bulletin {
+	list-style: none;
+	padding: 0px;
+}
+
+.none-bulletin-ul {
+	list-style: none;	
+}
+
+.highlight {
+	color: green;
+}
